@@ -1,0 +1,33 @@
+
+.log_center{
+    width: 400px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 0px auto;
+    // position: absolute;
+    // top: 50%;
+    // left: 50%;
+    // transform: translate(-50%,-50%);
+    // width: 400px;
+    // background-color:rgb(231, 234, 241);
+    // border-radius: 10%;
+}
+
+.log_center h1{
+
+    text-align: center;
+    padding:25px;
+    font-size: 22px;
+    border-bottom: 1px solid silver;
+}
+
+.pass {
+    display: flex;
+    align-items: center;
+    color: rgb(2, 2, 106);
+    padding: 10px;
+}
+.signup_link {
+    padding: 10px;
+}
